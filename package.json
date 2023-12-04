@@ -1,0 +1,21 @@
+{
+    "name": "advent_of_code_2023",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "1:1": "node 2022_12_1/1.mjs",
+      "1:2": "node 2022_12_1/2.mjs"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/dragma/advent_of_code_2023.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/dragma/advent_of_code_2023/issues"
+    },
+    "homepage": "https://github.com/dragma/advent_of_code_2023#readme"
+  }
