@@ -7,7 +7,7 @@ const loadInput = (day = 1, toArray = false, delimiter = "\n") => {
   const inputFilePath = path.resolve(
     __dirname,
     "..",
-    `2022_12_${day}`,
+    `2023_12_${day}`,
     "input.txt"
   );
   const text = fs.readFileSync(inputFilePath).toString();
