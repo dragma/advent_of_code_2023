@@ -1,6 +1,5 @@
 import loadInput from "../utils/loadInput.mjs";
 
-
 const lines = loadInput(1, true);
 
 const result = lines.reduce((acc, line) => {
